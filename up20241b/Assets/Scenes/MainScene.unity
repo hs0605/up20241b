@@ -417,7 +417,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3536b71c570a21d458e6174f090de7b2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PointUI: {fileID: 0}
+  PointUI: {fileID: 700281158}
 --- !u!4 &400981768
 Transform:
   m_ObjectHideFlags: 0
